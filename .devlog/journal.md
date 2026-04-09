@@ -1,1 +1,2 @@
 - 2026-03-22 17:47 | refactor: reorganizar apuntes (#7)
+- 2026-04-09 17:30 | tweak: ajuste menor (#28)
