@@ -1,3 +1,4 @@
 - 2026-03-22 17:47 | refactor: reorganizar apuntes (#7)
 - 2026-04-09 17:30 | tweak: ajuste menor (#28)
 - 2026-04-21 17:50 | fix: typo en notas (#42)
+- 2026-04-30 13:15 | tweak: ajuste menor (#57)
