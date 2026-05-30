@@ -3,3 +3,4 @@
 - 2026-04-21 17:50 | fix: typo en notas (#42)
 - 2026-04-30 13:15 | tweak: ajuste menor (#57)
 - 2026-05-01 15:20 | fix: typo en notas (#59)
+- 2026-05-30 09:00 | wip: experimento del dia (#95)
